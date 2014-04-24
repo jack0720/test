@@ -6,6 +6,7 @@ public class java8 {
 		System.out.println("test");
 		System.out.println("test2");
 		System.out.println("master");
+		System.out.println("master2");
 	}
 
 }
