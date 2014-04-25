@@ -13,4 +13,7 @@ public class java8 {
 		System.out.println("master3");
 	}
 
+	public void print() {
+		System.out.println("tester created");
+	}
 }
