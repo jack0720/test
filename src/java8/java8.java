@@ -12,5 +12,6 @@ public class java8 {
 
 	public void print() {
 		System.out.println("tester created");
+		System.out.println("tester4");
 	}
 }
