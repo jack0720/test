@@ -10,4 +10,7 @@ public class java8 {
 		System.out.println("tester3");
 	}
 
+	public void print() {
+		System.out.println("tester created");
+	}
 }
